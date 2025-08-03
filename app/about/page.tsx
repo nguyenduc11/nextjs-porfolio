@@ -1,4 +1,7 @@
+"use client";
+
 export default function About() {
+    console.log("About");
     return (
         <div>
             <h1>About</h1>
